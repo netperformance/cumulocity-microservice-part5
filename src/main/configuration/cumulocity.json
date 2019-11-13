@@ -7,7 +7,9 @@
   "isolation":"MULTI_TENANT",
   "requiredRoles": [
 	  "ROLE_INVENTORY_ADMIN",
-	  "ROLE_IDENTITY_ADMIN"
+	  "ROLE_IDENTITY_ADMIN",
+	  "ROLE_MEASUREMENT_ADMIN",
+      "ROLE_MEASUREMENT_READ"
   ],
   "roles":[
   ]
